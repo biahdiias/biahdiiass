@@ -5,4 +5,4 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![](https://tenor.com/pt-BR/view/dancing-minion-gif-24225602)
+![](https://media.tenor.com/u6r8fswiki4AAAAM/dancing-minion.gif)
